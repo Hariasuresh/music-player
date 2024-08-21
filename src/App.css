@@ -1,0 +1,199 @@
+.app {
+  display: flex;
+  justify-content: left;
+  background-color: #151515;
+
+}
+
+.song-list {
+  width: 30%;
+  padding: 20px;
+  background-color: #1e1e1e;
+  color: white;
+}
+
+.song-list h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+.search-bar {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: none;
+}
+
+.song-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 10px;
+  transition: background 0.3s ease;
+}
+
+.song-item.active {
+  background-color: #333;
+}
+
+.song-cover {
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  margin-right: 15px;
+}
+
+.song-info h3 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.song-info p {
+  margin: 0;
+  font-size: 14px;
+  color: #a0a0a0;
+}
+
+.song-duration p {
+  margin-left: auto;
+  color: #a0a0a0;
+  font-size: 14px;
+}
+
+.song-list-container {
+  background-color: #1a1a1a;
+  padding: 15px;
+  border-radius: 10px;
+  color: white;
+  width: 300px;
+  /* Adjust according to your layout */
+}
+
+.search-bar {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.song-list {
+  list-style: none;
+  padding: 5px;
+  margin: 0;
+  width: 432px;
+  height: 100%;
+}
+
+.song-item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.song-item.active {
+  background-color: #333;
+}
+
+.song-item:hover {
+  background-color: #444;
+}
+
+.song-cover {
+  width: 40px;
+  height: 40px;
+  margin-right: 15px;
+  border-radius: 5px;
+}
+
+.song-info {
+  flex-grow: 1;
+}
+
+.song-info h3 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.song-info p {
+  margin: 5px 0 0 0;
+  font-size: 14px;
+  color: #ccc;
+}
+
+.song-duration {
+  margin-left: 15px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: black;
+  color: white;
+
+}
+
+.topt {
+  padding-left: 40px;
+  opacity: 60%;
+}
+
+.spotifyicon {
+  width: 20%;
+  height: 40px;
+  left: 32px;
+  top: 32px;
+  color: white;
+  display: flex;
+  padding: 10px;
+}
+
+.search-bar {
+  background-color: #151515;
+  opacity: 70%;
+  border-radius: 10px;
+}
+
+.forunserch {
+  display: flex;
+  flex: auto;
+}
+
+.search-icon {
+  width: 40px;
+  height: 40px;
+}
+
+.custom-icon {
+  height: 40px;
+  width: 30px;
+
+}
+
+.player {
+  padding: 50px;
+}
+
+.songPic {
+  width: 480px;
+  height: 490px;
+}
+
+.foru {
+  color: white;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
