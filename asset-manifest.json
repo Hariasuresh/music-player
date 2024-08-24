@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/music-player/static/css/main.817342f5.css",
+    "main.js": "/music-player/static/js/main.33844615.js",
+    "static/js/453.21f478df.chunk.js": "/music-player/static/js/453.21f478df.chunk.js",
+    "static/media/fa-solid-900.ttf": "/music-player/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/music-player/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/music-player/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/music-player/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/music-player/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/music-player/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/music-player/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/music-player/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/music-player/index.html",
+    "main.817342f5.css.map": "/music-player/static/css/main.817342f5.css.map",
+    "main.33844615.js.map": "/music-player/static/js/main.33844615.js.map",
+    "453.21f478df.chunk.js.map": "/music-player/static/js/453.21f478df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.817342f5.css",
+    "static/js/main.33844615.js"
+  ]
+}
